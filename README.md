@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ramachandra Merla
 - 👀 I’m interested in Data Analyst / Data Scientist
 - 🌱 I’m currently learning Advanced ML models
-- 📫 reach me on linked in www.linkedin.com/in/ramachandra-merla-2a2966188
+- 📫 reach me on linkedIn Ramachandra M
 - Proficient in developing and implementing Automated Dashboards using tools like Tableau, Power BI, and Qlik Sense Hub.
 - Skilled in data analysis to identify areas of improvement and develop solutions for enhancing efficiency.
 - Experienced in data extraction from platforms like Amazon Redshift and CRM systems like Salesforce.
