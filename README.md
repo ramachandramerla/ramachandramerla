@@ -2,13 +2,4 @@
 - 👀 I’m interested in Data Analyst / Data Scientist
 - 🌱 I’m currently learning Advanced ML models
 - 📫 reach me on linkedIn Ramachandra M
-- Proficient in developing and implementing Automated Dashboards using tools like Tableau, Power BI, and Qlik Sense Hub.
-- Skilled in data analysis to identify areas of improvement and develop solutions for enhancing efficiency.
-- Experienced in data extraction from platforms like Amazon Redshift and CRM systems like Salesforce.
-- Familiar with healthcare and medical devices compliance standards including 21 CFR Part 820 and ISO 13485.
-- Successfully automated dashboards for various service and repair processes, resulting in a 15-day workload reduction.
-- Implemented optimized processes for accurate identification of product receival dates, achieving 98% lead time accuracy.
-- Created streamlined dashboards for NC, CAPA, and OBS, reducing manual workload by 2 days.
-- Utilized SQL queries to extract and analyze performance metrics from Amazon Redshift data warehouse.
-- Proactively managed product failure complaints and implemented strategies to minimize errors, ensuring compliance.
-- Developed automated excel reports for business review processes and trend analysis, resulting in significant reductions in manual effort (70% and 80% respectively).
+
