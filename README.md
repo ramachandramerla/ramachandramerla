@@ -5,9 +5,6 @@
 - 🌱 Currently learning Machine Learning<br/>
 
 
-![Ramachandra's github stats](https://github-readme-stats.vercel.app/api?username=ramachandramerla&count_private=true&show_icons=true&theme=radical&hide_rank=false)
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ramachandra-merla-2a2966188/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@ramachandramerla) 
 
@@ -22,6 +19,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-388E3C?style=plastic&logo=seaborn&logoColor=white)
 
+![DBeaver](https://img.shields.io/badge/DBeaver-00457C?style=plastic&logo=dbeaver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) 
@@ -41,6 +39,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=plastic&logo=confluence&logoColor=white)
 
+## Skills
 ![EDA](https://img.shields.io/badge/EDA-Data%20Analysis-2ECC71?style=plastic)
 ![Data Cleaning & Preprocessing](https://img.shields.io/badge/Data_Cleaning_&_Preprocessing-Transforming%20Data-FF5733?style=plastic)
 ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-Data%20Insights-9B59B6?style=plastic)
@@ -63,29 +62,7 @@
 [![](https://visitcount.itsvg.in/api?id=ramachandramerla&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## Skills
-Highlight my technical skills, expertise, and proficiency in various areas of data analysis and machine learning. From data wrangling and visualization to statistical modeling and deep learning, I'm equipped with the knowledge and skills to tackle diverse data challenges effectively.
 
-- Data Cleaning and Preprocessing
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis and Hypothesis Testing
-- Machine Learning Algorithms (Regression, Classification, Clustering)
-- Deep Learning and Neural Networks
-- Data Visualization (Matplotlib, Seaborn, Plotly)
-- Model Evaluation and Performance Metrics
-
-  
-## Tools and Technologies
-List the key tools, frameworks, and technologies that I frequently use in my data analysis and machine learning projects. This includes programming languages, libraries, IDEs, and data visualization tools that contribute to my workflow and productivity.
-
-- Python
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Scikit-learn
-- TensorFlow / PyTorch
-- SQL
-- Tableau / Power BI
 
   
 ## Contact Information
