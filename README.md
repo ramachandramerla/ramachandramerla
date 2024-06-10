@@ -4,6 +4,10 @@
 - 🔗 Making videos about SQL LeetCode problems on [YouTube](https://www.youtube.com/@ramachandramerla)<br/>
 - 🌱 Currently learning Machine Learning<br/>
 
+## Streak
+[![](https://visitcount.itsvg.in/api?id=ramachandramerla&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ramachandramerla&theme=default&hide_border=false)<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramachandra-merla-2a2966188/) 
@@ -53,16 +57,10 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ramachandramerla&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ramachandramerla&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramachandramerla&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ramachandramerla&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=ramachandramerla&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
   
