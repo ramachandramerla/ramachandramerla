@@ -20,6 +20,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-388E3C?style=plastic&logo=seaborn&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) 
@@ -40,8 +41,14 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=plastic&logo=confluence&logoColor=white)
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
-
+![EDA](https://img.shields.io/badge/EDA-Data%20Analysis-2ECC71?style=plastic)
+![Data Cleaning & Preprocessing](https://img.shields.io/badge/Data_Cleaning_&_Preprocessing-Transforming%20Data-FF5733?style=plastic)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-Data%20Insights-9B59B6?style=plastic)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-Statistical%20Inference-3498DB?style=plastic)
+![Regression Analysis](https://img.shields.io/badge/Regression_Analysis-Predictive%20Modeling-3498DB?style=plastic)
+![Classification](https://img.shields.io/badge/Classification-Machine%20Learning-3498DB?style=plastic)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-Evaluating%20Performance-9B59B6?style=plastic)
+![Performance Metrics](https://img.shields.io/badge/Performance_Metrics-Measuring%20Performance-27AE60?style=plastic)
 
 
 # 📊 GitHub Stats:
