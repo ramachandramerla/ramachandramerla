@@ -43,6 +43,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=plastic&logo=confluence&logoColor=white)
 
+
 ## Skills
 ![EDA](https://img.shields.io/badge/EDA-Data%20Analysis-2ECC71?style=plastic)
 ![Data Cleaning & Preprocessing](https://img.shields.io/badge/Data_Cleaning_&_Preprocessing-Transforming%20Data-FF5733?style=plastic)
