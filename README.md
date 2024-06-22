@@ -2,7 +2,7 @@
 
 - 📊 Data Analyst sharing my learning in tech<br/>
 - 🔗  [YouTube](https://www.youtube.com/@ramachandramerla)<br/>
-- 🌱 Currently learning Machine Learning<br/>
+- 🌱 Currently learning Machine Learning <br/>
 
 ## Streak
 [![](https://visitcount.itsvg.in/api?id=ramachandramerla&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
