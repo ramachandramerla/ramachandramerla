@@ -1,7 +1,7 @@
 ### 👋  Hi, I’m Ramachandra Merla
 
 - 📊 Data Analyst sharing my learning in tech<br/>
-- 🔗  [YouTube](https://www.youtube.com/@ramachandramerla)<br/>
+- 🔗   [YouTube](https://www.youtube.com/@ramachandramerla)<br/>
 - 🌱 Currently learning Machine Learning <br/>
 
 ## Streak
